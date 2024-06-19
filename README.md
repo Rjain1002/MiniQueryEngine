@@ -1,2 +1,2 @@
 # MiniQueryEngine
-Small implementation of SQL Engine 
+<p>Developed a comprehensive mini SQL engine tailored for processing a wide range of SELECT-based SQL queries. This engine adeptly manages various query operations including joins, DISTINCT selections, and aggregate functions such as MAX and SUM. It ensures accurate query results through meticulous error handling and validation processes. The engine is designed to efficiently parse and execute SQL commands, providing reliable data management and manipulation capabilities. Additionally, it supports complex query structures and multiple table operations, making it a versatile tool for both educational purposes and small-scale data management tasks.</p>
